@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debbah Islam Mahdi</h1>
 <h3 align="center">I'm a Computer Science student, cybersecurity enthusiast, and web developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
 - 📫 How to reach me **mahdi.debbah@outlook.com**
 
